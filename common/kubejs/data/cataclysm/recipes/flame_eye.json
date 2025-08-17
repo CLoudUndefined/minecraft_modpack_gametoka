@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "CEB", "SSS"],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_powder"
+    },
+    "C": {
+      "item": "cataclysm:cursium_ingot"
+    },
+    "B": {
+      "item": "blazegear:brimsteel_ingot"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "cataclysm:flame_eye",
+    "count": 1
+  }
+}
